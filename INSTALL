@@ -1,4 +1,3 @@
-cd ./
 mkdir ~/circumvault
 mv ./index.js ~/circumvault/index.js
 mv ./package.json ~/circumvault/package.json
