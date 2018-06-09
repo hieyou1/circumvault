@@ -2,3 +2,5 @@ mkdir ~/circumvault
 mv ./index.js ~/circumvault/index.js
 mv ./package.json ~/circumvault/package.json
 node ~/circumvault installtest
+rm ./INSTALL
+rm ./README.md
